@@ -10,3 +10,8 @@ Takes into account:
   - Win and Day xp boosts
   
 Then tells the amount of days it would take to reach level 30
+
+# How to use
+
+1. Download the latest .exe release
+2. Run it and follow instructions
